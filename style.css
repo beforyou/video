@@ -137,7 +137,7 @@ body {
 .card-front form .play {
   width: 40%;
   line-height: 30px;
-  align-self: flex-end;
+ 
   outline: none;
   border: 0;
   border-radius: 25px;
