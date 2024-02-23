@@ -90,7 +90,8 @@ form.addEventListener('submit', (e) => {
   e.preventDefault()
   let mediaInput = document.querySelector('#media-url')
   let mediaURL = mediaInput.value
-  let api = "https://im1907.top/?jx="
+//  let api = "https://im1907.top/?jx="
+  let api = "https://jx.xmflv.com/?url="
   let card = document.querySelector('.card')
   let player = document.querySelector('.player')
 
