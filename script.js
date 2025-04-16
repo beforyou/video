@@ -91,8 +91,8 @@ form.addEventListener('submit', (e) => {
   let mediaInput = document.querySelector('#media-url')
   let mediaURL = mediaInput.value
 //  let api = "https://im1907.top/?jx="
-//  let api = "https://jx.xmflv.com/?url="
-  let api = "https://play.xiaomianyang.top/analysis/player/?key=bekmvEHJMNORSVWZ17&url="
+  let api = "https://jx.xmflv.com/?url="
+//  let api = "https://play.xiaomianyang.top/analysis/player/?key=bekmvEHJMNORSVWZ17&url="
   let card = document.querySelector('.card')
   let player = document.querySelector('.player')
 
